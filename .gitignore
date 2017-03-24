@@ -1,0 +1,7 @@
+node_modules/
+.git/*
+.git
+yarn.lock
+*.rdb
+nohup.out
+*.log
